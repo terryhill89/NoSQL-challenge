@@ -21,7 +21,10 @@ Use NoSQL_setup_starter.ipynb for this section of the challenge.
 ## Part 2: Update the Database
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
-## The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
+The magazine editors have some requested modifications for the database before you can perform any queries or analysis for them. Make the following changes to the establishments collection:
+
+1. An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
+
 ![Bussiness name](https://user-images.githubusercontent.com/112741203/224234127-e4403830-7167-40ad-8923-7224435f29e5.png)
 
 2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the BusinessTypeID and BusinessType fields.
